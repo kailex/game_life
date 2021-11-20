@@ -1,1 +1,1 @@
-# game_life
+# Simple Game Of Life in Flask
